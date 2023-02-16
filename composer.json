@@ -68,7 +68,7 @@
           "type": "vcs",
           "url": "git@github.com:marispro/laravel-presenter.git"
         }
-  ]
+  ],
     "minimum-stability": "dev",
     "prefer-stable": true
 }
